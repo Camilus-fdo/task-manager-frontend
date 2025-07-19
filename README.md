@@ -1,4 +1,4 @@
-# vue-sample-app
+# Task-Manager-Frontend
 
 ## Project setup
 ```
